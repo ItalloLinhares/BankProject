@@ -5,7 +5,11 @@ target/
 !**/src/test/**/target/
 
 ### My ignored Files
+
+application.properties
 *.properties
+.properties
+
 
 ### STS ###
 .apt_generated
